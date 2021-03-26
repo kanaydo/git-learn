@@ -1,0 +1,5 @@
+- learn git
+- learn html
+- learn js
+- learn java
+- learn android
