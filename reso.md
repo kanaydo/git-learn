@@ -1,4 +1,4 @@
-- learn git
+- learn git (done)
 - learn html
 - learn js
 - learn java
